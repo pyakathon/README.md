@@ -12,6 +12,25 @@ In previous roles, I’ve supported **project coordination**, **business develop
 - ✅ Cross-functional project coordination  
 - ✅ Team leadership & agile communication
 
+## 🔧 Tools & Technologies
+- **Project Tools:** Trello · Notion · Slack · Jira · Excel · Google Workspace  
+- **Tech Stack:** Python (Pandas, NumPy) · SQL (learning) · Jupyter Notebook, VS Code
+- **Other:** Presentation Design · SOP Writing, Reporting
+
+---
+
+## 🚀 Featured Projects
+
+### 📄 [Mottu Expansion & Churn Analysis](https://github.com/pyakathon/mottu-expansion-business-case)
+A strategic case study for a global mobility platform — including customer lifecycle mapping, competitor research, and product adoption insights.
+
+### 🧪 [ML Projects & Practice Notebooks](https://github.com/pyakathon/ML-Projects)
+Python notebooks exploring basic machine learning concepts, data cleaning, and model experimentation.
+
+## 🎯 Current Goals
+- Finish SQL + Python analytics projects  
+- Develop more business research case studies  
+
 I'm always open to collaborating on meaningful projects — especially those aiming to reshape industries or serve underserved communities through tech.
 
 📁 Portfolio: [github.com/pyakathon](https://github.com/pyakathon)
